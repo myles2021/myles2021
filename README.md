@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Myles</h1>
-<h3 align="center">A passionate frontend developer from London</h3>
+<h3 align="center">A DevOps Engineer from London</h3>
 
 - 🔭 I’m currently working on [Perkk](http://www.perkk.co.uk/)
 
-- 🌱 I’m currently learning **Ruby on rails**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Ruby-on-rails**
 
