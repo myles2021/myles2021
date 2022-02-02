@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Perkk](http://www.perkk.co.uk/)
 
-- 🌱 I’m currently learning **AWS and Python**
+- 🌱 I’m currently learning **AWS, Terraform, Jenkins and Python**
 
 - 💬 Ask me about **Ruby-on-rails**
 
