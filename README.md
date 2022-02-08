@@ -3,7 +3,7 @@
 
 - 📖 Currently studying on an intensive DevOps bootcamp with Estio
 
-- 📖 Recently finished a Web Development bootcamp with Le Wagon
+- 💻 Recently finished an intensive Web Development bootcamp with Le Wagon
 
 - 🔭 I’m currently working on [Perkk](http://www.perkk.co.uk/)
 
