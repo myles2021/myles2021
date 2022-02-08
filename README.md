@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Myles</h1>
 <h3 align="center">A DevOps Engineer from London</h3>
 
+- 📖 Currently studying on an intensive DevOps bootcamp with Estio
+
+- 📖 Recently finished a Web Development bootcamp with Le Wagon
+
 - 🔭 I’m currently working on [Perkk](http://www.perkk.co.uk/)
 
 - 🌱 I’m currently learning **AWS, Terraform, Jenkins and Python**
