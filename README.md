@@ -5,7 +5,9 @@
 
 - 💻 Recently finished an intensive Web Development bootcamp with Le Wagon
 
-- 🔭 I’m currently working on [Perkk](http://www.perkk.co.uk/)
+- 🔭 I’m currently working on an online card game that I play at the pub with my friends
+
+- 🚀 I recently worked on [Perkk](http://www.perkk.co.uk/)
 
 - 🌱 I’m currently learning **AWS, Terraform, Jenkins and Python**
 
