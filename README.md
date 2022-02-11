@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Myles</h1>
 <h3 align="center">A DevOps Engineer from London</h3>
 
-- 📖 Currently studying on an 16 week intensive DevOps bootcamp with Estio
+- 📖 Currently studying on a 16 week intensive DevOps bootcamp with Estio
 
 - 💻 Recently finished an intensive 10 week Web Development bootcamp with Le Wagon
 
