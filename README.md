@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Myles</h1>
 <h3 align="center">A DevOps Engineer from London</h3>
 
-- 📖 Currently studying on a 16 week intensive DevOps bootcamp with Estio
+- 📖 Recently finished studying on a 16 week intensive DevOps bootcamp with Estio
 
-- 💻 Recently finished an intensive 10 week Web Development bootcamp with Le Wagon
+- 💻 Completed an intensive 10 week Web Development bootcamp with Le Wagon
 
-- 🔭 I’m currently working on an online version of a card game that I play at the pub with my friends
+- 🔭 In my spare time, working on an online version of a card game that I play at the pub with my friends
 
 - 🚀 I recently worked on [Perkk](http://www.perkk.co.uk/)
 
-- 🌱 I’m currently learning **AWS, Terraform, Jenkins and Python**
+- 🌱 I’m currently working and learning with **AWS, Terraform, Jenkins and Python**
 
 - 💬 Ask me about **Ruby-on-rails**
 
