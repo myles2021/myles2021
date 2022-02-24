@@ -9,7 +9,7 @@
 
 - 🚀 I recently worked on [Perkk](http://www.perkk.co.uk/)
 
-- 🌱 I’m currently working and learning with **AWS, Helm, Terraform, Jenkins and Python**
+- 🌱 I’m currently working and learning with **AWS, Helm, Packer, Terraform, Jenkins and Python**
 
 - 💬 Ask me about **Ruby-on-rails**
 
