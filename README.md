@@ -7,7 +7,7 @@
 
 - 🔭 In my spare time, I'm working on an online version of a card game that I play at the pub with my friends
 
-- 🚀 I recently worked on [Perkk](http://www.perkk.co.uk/)
+- 🚀 I recently worked on [Perkk](http://www.perkk.co.uk/) (to sign in and explore: email = charlie@facebook.com, password = 123123)
 
 - 🌱 I’m currently working and learning with **AWS, Helm, Packer, Terraform, Jenkins and Python**
 
